@@ -4,4 +4,5 @@
     <string name="title_activity_main">ionic-angular-conference-app</string>
     <string name="package_name">io.ionic.conference.angular</string>
     <string name="custom_url_scheme">io.ionic.conference.angular</string>
+    <string name="secure_input_method">Secure Input Method</string>
 </resources>
